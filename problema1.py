@@ -1,5 +1,3 @@
-
-
 def main():
     # Leer la entrada
     m, n = map(int, input().split())  # Leer m y n
@@ -39,3 +37,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
